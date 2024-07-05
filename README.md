@@ -1,2 +1,2 @@
 # cursoR
-Este es un repositorio del curso de R
+Este es un repositorio del curso de R.
